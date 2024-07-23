@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is Jennifer 👋
 
 <!--
 **J3nn10Cs/J3nn10Cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

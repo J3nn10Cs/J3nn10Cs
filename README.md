@@ -1,5 +1,10 @@
 ## Hi my name is Jennifer 👋
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/bx_j3nn15/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+</p>
 <!--
 **J3nn10Cs/J3nn10Cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

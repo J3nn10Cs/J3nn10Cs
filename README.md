@@ -1,5 +1,8 @@
-## Hi my name is Jennifer 👋
+## Hi! I'm Jennifer 👋
 
+## About me
+- I am 20 years old and I am from Lima, Peru.
+- I like to play soccer
 <!--
 **J3nn10Cs/J3nn10Cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,7 +13,7 @@
     <h3>💻Languages</h3>
     <img src="https://skillicons.dev/icons?i=js,mysql,php,py,nodejs,java" />
     <h3>🔧Softwares and Tools</h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,gulp,npm,powershell,react,sass,unity,visualstudio,vscode"/>
+    <img src="https://skillicons.dev/icons?i=css,git,github,gulp,npm,powershell,react,sass,unity,visualstudio,vscode"/>
   </a>
 </p>
 <!--

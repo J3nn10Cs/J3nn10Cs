@@ -2,10 +2,10 @@
 
 ## About me
 - 💬 I am 20 years old and I am from Lima, Peru.
-- 🔭 I am currently learning Web Development
+- 🔭 I am currently learning Web Development.
 - 🤔 Explore new technologies and develop software solutions and quick tricks.
 - ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-- 🎓 Studying systems engineering
+- 🎓 Studying systems engineering, taking the 6th cycle.
 
 ## Skill
 <p align="center">

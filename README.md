@@ -10,7 +10,10 @@
 ## Skill
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=js,mysql,php,py,nodejs,java" />
+    <h3>Softwares and Tools</h3>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,gulp,npm,powershell,react,sass,unity,visualstudio,vscode,/>
   </a>
 </p>
 <!--

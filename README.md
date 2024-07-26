@@ -11,6 +11,7 @@
 - 🎶 Listen to music.
 - ⚽ play soccer.
 - 🖇️ Watch series and movies.
+- 🎮 playing video games.
 
 ## Skill
 <p align="center">

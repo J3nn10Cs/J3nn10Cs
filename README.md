@@ -7,6 +7,11 @@
 - ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 - 🎓 Studying systems engineering, taking the 6th cycle.
 
+## Interests and Hobbies
+- 🎶 Listen to music.
+- ⚽ play soccer.
+- 🖇️ Watch series and movies.
+
 ## Skill
 <p align="center">
   <a href="https://skillicons.dev">

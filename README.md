@@ -5,7 +5,7 @@
 - 🔭 I am currently learning Web Development.
 - 🤔 Explore new technologies and develop software solutions and quick tricks.
 - ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-- 🎓 Studying systems engineering, taking the 6th cycle.
+- 🎓 Studying systems engineering, taking the 7th cycle.
 
 ## Interests and Hobbies
 - 🎶 Listen to music.

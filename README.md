@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h3>💻Languages</h3>
-    <img src="https://skillicons.dev/icons?i=js,mysql,py,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=js,mysql,py,nodejs,ts,nestjs" />
     <h3>🔧Softwares and Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,github,gulp,npm,react,tailwwind"/>
   </a>

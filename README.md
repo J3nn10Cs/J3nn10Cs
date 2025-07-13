@@ -1,38 +1,54 @@
-<h1 align="center"><b>Hi! I'm Jennifer</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi! I'm <b>Jennifer</b> 👋
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h1>
 
-## About me
-- 💬 I am 20 years old and I am from Lima, Peru.
-- 🔭 I am currently learning Web Development.
-- 🤔 Explore new technologies and develop software solutions and quick tricks.
-- ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-- 🎓 Studying systems engineering, taking the 8th cycle.
+<h3 align="center">💻 Passionate Web Developer | 🎓 Systems Engineering Student | 🌍 From Lima, Peru</h3>
 
-## Interests and Hobbies
-- 🎶 Listen to music.
-- ⚽ play soccer.
-- 🖇️ Watch series and movies.
-- 🎮 playing video games.
+---
 
-## Skill
-<p align="center">
-  <a href="https://skillicons.dev">
-    <h3>💻Languages</h3>
-    <img src="https://skillicons.dev/icons?i=js,mysql,py,nodejs,ts,nestjs" />
-    <h3>🔧Softwares and Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,gulp,npm,react,tailwwind"/>
-  </a>
+## 👩‍💻 About Me
+- 🎓 I’m a Systems Engineering student, currently in my 8th cycle.
+- 🌍 Based in Lima, Peru.
+- 🔭 Currently focused on learning Full Stack Web Development.
+- 💡 I enjoy exploring new technologies and building creative solutions.
+- ☕ I believe a good cup of coffee fixes everything!
+
+---
+
+## 🎯 Interests & Hobbies
+🎶 Music • ⚽ Soccer • 🎮 Video Games • 🎬 Movies & Series
+
+---
+
+## 🛠️ My Tech Stack
+
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py" />
 </p>
-<!--
-**J3nn10Cs/J3nn10Cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🧱 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,postgres" />
+</p>
 
-- 🔭 I am currently learning Web Development
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 Explore new technologies and develop software solutions and quick tricks.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
+
+### ⚙️ Others & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,gulp" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p>
+  <a href="https://github.com/J3nn10Cs"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>

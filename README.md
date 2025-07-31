@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hi! I'm <b>Jennifer</b> 👋
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  Hi! I'm <b>Jennifer</b>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </h1>
 
 <h3 align="center">💻 Passionate Web Developer | 🎓 Systems Engineering Student | 🌍 From Lima, Peru</h3>

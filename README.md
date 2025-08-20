@@ -1,26 +1,26 @@
 <h1 align="center">
-  Hi! I'm <b>Jennifer</b>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  Hey there! I'm <b>Jennifer</b>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </h1>
 
-<h3 align="center">💻 Passionate Web Developer | 🎓 Systems Engineering Student | 🌍 From Lima, Peru</h3>
+<h3 align="center">💻 Web Developer in Progress | 🎓 Systems Engineering Student | 🌍 From Lima, Peru</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 I’m a Systems Engineering student, currently in my 8th cycle.
-- 🌍 Based in Lima, Peru.
-- 🔭 Currently focused on learning Full Stack Web Development.
-- 💡 I enjoy exploring new technologies and building creative solutions.
-- ☕ I believe a good cup of coffee fixes everything!
+- 🎓 I'm currently studying Systems Engineering (8th cycle).
+- 🌍 Born and raised in Lima, Peru.
+- 🔭 I’m focused on becoming a Full Stack Web Developer.
+- 💡 Love learning new technologies and turning ideas into projects.
+- ☕ Coffee lover – it’s my fuel for coding sessions!
 
 ---
 
 ## 🎯 Interests & Hobbies
-🎶 Music • ⚽ Soccer • 🎮 Video Games • 🎬 Movies & Series
+🎶 Listening to music • ⚽ Playing soccer • 🎮 Gaming  • 🎬 Watching movies & series
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
 <p>

@@ -24,7 +24,7 @@
 
 ### 👩‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java" />
 </p>
 
 ### 🧱 Backend

@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://portfolioj3nn10cs.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>

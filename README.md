@@ -29,12 +29,12 @@
 
 ### 🧱 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,postgres,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,postgres" />
 </p>
 
 ### 🌐 Frontend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" />
 </p>
 
 ### ⚙️ Others & Tools

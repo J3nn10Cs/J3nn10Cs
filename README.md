@@ -34,12 +34,12 @@
 
 ### 🌐 Frontend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" />
 </p>
 
 ### ⚙️ Others & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,gulp" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,gulp,firebase" />
 </p>
 
 ---

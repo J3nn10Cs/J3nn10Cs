@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 I'm currently studying Systems Engineering (8th cycle).
+- 🎓 I'm currently studying Systems Engineering (9th cycle).
 - 🌍 Born and raised in Lima, Peru.
 - 🔭 I’m focused on becoming a Full Stack Web Developer.
 - 💡 Love learning new technologies and turning ideas into projects.

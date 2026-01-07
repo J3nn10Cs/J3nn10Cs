@@ -34,7 +34,7 @@
 
 ### 🌐 Frontend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs,firebase" />
 </p>
 
 ### ⚙️ Others & Tools
